@@ -34,8 +34,6 @@
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamaminmajid/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Website](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=globe&logoColor=white)](https://aminmajid.dev)
 
 > _"Code is like humor. When you have to explain it, it’s bad." – Cory House_
 
