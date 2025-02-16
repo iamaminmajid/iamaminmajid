@@ -30,7 +30,7 @@
 - 🏗 **Refactored Backend Architecture** – Improved API response times by 25% for enhanced system performance.
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=iamaminmajid&show_icons=true&theme=radical)
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamaminmajid/)
